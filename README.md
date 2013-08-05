@@ -1,7 +1,7 @@
 Stand Stijl   
 by [Chris Novello](http://chrisnovello.com) ([@paperkettle](http://www.twitter.com/paperkettle))   
 
-Stand Stijl is a text toy inspired by the work of Piet Mondrian. It lets you move text around generative grids of rectangles using OSC, and has a few different color&draw modes.   
+Stand Stijl is a text toy inspired by the work of Piet Mondrian. It lets you move text inside of generative rectangle grids (using OSC) and has a few different color&draw modes.   
 
 For more info visit [illucia.com](http://illucia.com)'s software [page](http://illucia.com/software/)
 
